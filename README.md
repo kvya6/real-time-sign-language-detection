@@ -40,3 +40,23 @@ python RIOlinopenCV.py
 Show ASL gestures within the ROI box to start translating into text
 
 Press 'q' to quit
+## 📥 Download Dataset
+
+To download the ASL Alphabet dataset from Kaggle:
+
+1. Place your `kaggle.json` API key in `~/.kaggle/` (or same directory).
+2. Run:
+
+```bash
+pip install kaggle
+python download_dataset.py
+note:✅ Best Practice: Add a Script to Download from Kaggle
+Create a kaggle.json API key
+Go to your Kaggle account:
+https://www.kaggle.com/account
+
+Scroll to API section → Click “Create New API Token”
+
+It downloads a file called kaggle.json
+ dataset link:
+ https://www.kaggle.com/datasets/grassknoted/asl-alphabet
