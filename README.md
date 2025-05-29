@@ -1,4 +1,4 @@
-Real-Time  Sign Language (ASL) Recognition using CNN and deeplearning
+#Real-Time  Sign Language (ASL) Recognition using CNN and deeplearning
 This project implements a real-time American Sign Language (ASL) alphabet recognition system using Computer Vision and Deep Learning. It leverages a Convolutional Neural Network (CNN) trained on ASL hand gestures to detect and recognize 29 signs (A–Z + space, nothing, del) through a live webcam feed. Recognized signs are automatically converted into text to form full sentences for enhanced human-computer interaction.
 
 🔧 Tech Stack
